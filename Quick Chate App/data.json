@@ -1,0 +1,19 @@
+{
+    "users":[
+        {"id":1,"username": "Choub Phearen"},
+        {"id":2,"username": "Choub Pheara"},
+        {"id":3,"username": "Choub Lida"}
+    ],
+
+    "rooms":[
+        {
+            "memberOne" : "Choub Phearen",
+            "menberTwo" : "Choub Pheara",
+            "message":[
+                {"message":"Hello World, this quick chart","sender":"Choub Phearen","time":"9:00 pm"}
+            ]
+
+    
+    }
+    ]
+}
